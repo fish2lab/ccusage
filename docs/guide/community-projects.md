@@ -21,6 +21,7 @@ These projects are maintained independently and are not affiliated with the ccus
 
 - [scx](https://github.com/yamamuteki/scx) - Convert ccusage USD output from stdin into a local currency
 - [cachemiss](https://github.com/CedricConday/cachemiss) - Lists every prompt-cache rebuild in your Claude Code transcripts with its reason (from `message.diagnostics.cache_miss_reason` when the field is present, otherwise inferred and marked as such), the tokens rewritten, and the write premium over a cache read, per session, agent, and model
+- [git-tab](https://github.com/fish2lab/git-tab) - Git hooks that write the Claude Code, Codex, pi and OpenCode usage behind each commit into its message as trailers: tokens, models, and cost at API prices and at what a subscription actually charged. `git tab summary` adds them up per branch or release from any clone
 
 ## Web Applications
 
